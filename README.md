@@ -30,10 +30,10 @@ The analysis also identified challenges related to unusually long KIT durations,
 
 ## Repository Files
 
-- **Prediction_Kit_Case_Study_.ipynb** — Main notebook containing the complete analysis, model development, evaluation, and prediction generation.
-- **KIT_Case_Study_Summary_.pdf** — Two-page summary of findings, limitations, and recommendations.
-- **predictions.npy** — Final predicted KIT completion dates in the original inference-row order.
-- **kitting_predictions.csv** — Predicted KIT completion dates alongside sales order IDs for easier inspection.
+- **TemitayoOlogun_DS_Case_JupyterNotebook_2026.ipynb** — Main notebook containing the complete analysis, model development, evaluation, and prediction generation.
+- **TemitayoOlogun_DS_Case_Summary_2026.pdf** — Two-page summary of findings, limitations, and recommendations.
+- **TemitayoOlogun_DS_Case_Predictions_2026.npy** — Final predicted KIT completion dates in the original inference-row order.
+- **TemitayoOlogun_DS_Case_Supporting_2026.csv** — Predicted KIT completion dates alongside sales order IDs for easier inspection.
 
 ## Reproducibility
 
